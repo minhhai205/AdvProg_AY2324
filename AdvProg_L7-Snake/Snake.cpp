@@ -36,6 +36,7 @@ vector<Position> Snake::getPositions() const
     return res;
 }
 
+
 /*** 
  * PLEASE UPDATE THIS METHOD
  * 
